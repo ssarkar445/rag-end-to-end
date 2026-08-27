@@ -100,8 +100,8 @@ def pdf_loader(pdf_path: str):
 
 
 if __name__ == "__main__":
-    load_text_file()
+    # load_text_file()
     # web_loader()
     # lazy_loader()
     # doc_structure()
-    # pdf_loader("./docs/langchain_demo.pdf")
+    pdf_loader(r"C:\MyFiles\Mycodes\rag-end-to-end\docs\langchain_demo.pdf")

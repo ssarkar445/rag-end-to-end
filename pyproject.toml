@@ -12,6 +12,7 @@ dependencies = [
     "langchain-core>=1.6.0",
     "langchain-openai>=1.6.0",
     "langgraph>=1.2.11",
+    "pypdf>=6.16.2",
     "python-dotenv>=1.2.3",
 ]
 
